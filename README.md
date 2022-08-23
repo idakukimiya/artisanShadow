@@ -16,7 +16,9 @@
 
 ## Description
 
-This project was created to demonstrate the use of Inquirer module from Node.js, TDD using jest, and the use of OOP.
+This project was created to demonstrate the using Node.js, Inquirer, and MySQL building a command-line application to manage a company's employee database.
+
+For a business: Should be able to view and manage the departments, roles, and employees in the company.
 
 ## Usage
 
