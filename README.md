@@ -64,6 +64,8 @@ For a business: Should be able to view and manage the departments, roles, and em
 
 [DEMO]("https://drive.google.com/file/d/19hDXqvLaWoxErwre1oTdz-linrM3_gR5/view")
 
+[GitHub URL]("https://github.com/idakukimiya/artisanShadow")
+
 ![Gif of Demo](./assets/GIF/artisanShadow.gif)
 
 ## Tests
