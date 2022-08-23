@@ -1,18 +1,18 @@
-const mysql = require('mysql');
+const mysql = require('mysql2');
 const inquirer = require('inquirer');
 
 const connection = mysql.createConnection({
     multipleStatements: true,
     host: "localhost",
 
-    // Your port; if not 3306
+    // Your port
     port: 3306,
 
     // Your username
     user: "root",
 
     // Your password
-    password: "2093ftPV",
+    password: "happy:D1",
     database: "employee_db"
 });
 
