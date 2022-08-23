@@ -58,13 +58,13 @@ For a business: Should be able to view and manage the departments, roles, and em
 
 ## Screenshot
 
-![screenshot of project](./assets/image/)
+![screenshot of project](./assets/image/Picture1.png)
 
 ## Link to Demo
 
-[DEMO]("")
+[DEMO]("https://drive.google.com/file/d/19hDXqvLaWoxErwre1oTdz-linrM3_gR5/view")
 
-![Gif of Demo](./assets/gif/)
+![Gif of Demo](./assets/GIF/artisanShadow.gif)
 
 ## Tests
 
