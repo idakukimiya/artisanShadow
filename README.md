@@ -56,7 +56,7 @@ This project was created to demonstrate the use of Inquirer module from Node.js,
 
 ## Screenshot
 
-![screenshot of project](./assets/images/)
+![screenshot of project](./assets/image/)
 
 ## Link to Demo
 
